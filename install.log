@@ -1,0 +1,559 @@
+Using pip 25.0.1 from /home/jeevanth/Voice_cloning/env/lib/python3.8/site-packages/pip (python 3.8)
+Requirement already satisfied: espnet in ./env/lib/python3.8/site-packages (202412)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/21/df/7c6bb83dcb45b35dc35b310d752f254211cde0bcd2a35290ea6e2862b2a9/setuptools-75.4.0-py3-none-any.whl (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/e2/73/c1ccf3e057ef6331cc6861412905dc218203bde46dfe8262c1631aa7fb11/setuptools-75.4.0.tar.gz (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/fe/df/88ccbee85aefbca071db004fdc8f8d2507d55d5a9dc27ebb93c92edb1bd8/setuptools-75.5.0-py3-none-any.whl (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/c8/db/722a42ffdc226e950c4757b3da7b56ff5c090bb265dccd707f7b8a3c6fee/setuptools-75.5.0.tar.gz (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/55/21/47d163f615df1d30c094f6c8bbb353619274edccf0327b185cc2493c2c33/setuptools-75.6.0-py3-none-any.whl (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/43/54/292f26c208734e9a7f067aea4a7e282c080750c4546559b58e2e45413ca0/setuptools-75.6.0.tar.gz (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/4e/6e/abdfaaf5c294c553e7a81cf5d801fbb4f53f5c5b6646de651f92a2667547/setuptools-75.7.0-py3-none-any.whl (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/ac/57/e6f0bde5a2c333a32fbcce201f906c1fd0b3a7144138712a5e9d9598c5ec/setuptools-75.7.0.tar.gz (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/69/8a/b9dc7678803429e4a3bc9ba462fa3dd9066824d3c607490235c6a796be5a/setuptools-75.8.0-py3-none-any.whl (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/92/ec/089608b791d210aec4e7f97488e67ab0d33add3efccb83a056cbafe3a2a6/setuptools-75.8.0.tar.gz (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/da/bd/ac215d31c2904e47ec5332897442bdc19fd6b21a82068d057152f4e9c1cf/setuptools-75.8.1-py3-none-any.whl (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/e8/42/0e5f75d734f181367de4acd9aba8f875453a5905169c5485ca8416b015ae/setuptools-75.8.1.tar.gz (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/a9/38/7d7362e031bd6dc121e5081d8cb6aa6f6fedf2b67bf889962134c6da4705/setuptools-75.8.2-py3-none-any.whl (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/d1/53/43d99d7687e8cdef5ab5f9ec5eaf2c0423c2b35133a2b7e7bc276fc32b21/setuptools-75.8.2.tar.gz (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/e2/82/23e063d15ecb1484cd0bf713b36ef916bdc30aa153b71828e8b22a5b2d7b/setuptools-75.9.0-py3-none-any.whl (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/f5/38/6cafe2b3d55661b5d72dc12c038d83f6347d889853697cb98b5e4a5d853d/setuptools-75.9.0.tar.gz (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/8d/28/19ad82a0549d73ec6feffa6711eacf9246035a9426b8a8b528440c9959d2/setuptools-75.9.1-py3-none-any.whl (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/d0/df/ec5ad16b0ec305081c372bd0550fd638fa96e472cd5a03049c344076ea76/setuptools-75.9.1.tar.gz (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/37/66/d2d7e6ad554f3a7c7297c3f8ef6e22643ad3d35ef5c63bf488bc89f32f31/setuptools-76.0.0-py3-none-any.whl (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/32/d2/7b171caf085ba0d40d8391f54e1c75a1cda9255f542becf84575cfd8a732/setuptools-76.0.0.tar.gz (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/62/fb/47dc84839f2743553075c80d08543b3d0f498f42329141b6717504abcdfd/setuptools-76.1.0-py3-none-any.whl (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/fa/2b/287ade3a580869e6178cb37d045f54272b1f006f2c0ff6fad08db258d027/setuptools-76.1.0.tar.gz (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/40/50/bc3d02829a3babd70b7f1414c93cf6acd198976f0469a07d0e7b813c5002/setuptools-77.0.1-py3-none-any.whl (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/ea/df/9f719dc48f64284be8bd99e2e0bb0dd6e9f8e2c2c3c7bf7a685bc5adf2c7/setuptools-77.0.1.tar.gz (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/a9/07/99f2cefae815c66eb23148f15d79ec055429c38fa8986edcc712ab5f3223/setuptools-77.0.3-py3-none-any.whl (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/81/ed/7101d53811fd359333583330ff976e5177c5e871ca8b909d1d6c30553aa3/setuptools-77.0.3.tar.gz (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/42/c8/3faed884acdb2c1f2eb353cbacdd1ee4943de89a199d1f622ebefb6170e5/setuptools-78.0.1-py3-none-any.whl (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/47/42/55a8f24bd1287676b23e56a6d94e416be390ca6e0ee30fa46a782d038f80/setuptools-78.0.1.tar.gz (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/aa/db/2fd473dfe436ad19fda190f4079162d400402aedfcc41e048d38c0a375c6/setuptools-78.0.2-py3-none-any.whl (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/4c/f4/aa8d364f0dc1f33b2718938648c31202e2db5cd6479a73f0a9ca5a88372d/setuptools-78.0.2.tar.gz (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/54/21/f43f0a1fa8b06b32812e0975981f4677d28e0f3271601dc88ac5a5b83220/setuptools-78.1.0-py3-none-any.whl (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/a9/5a/0db4da3bc908df06e5efae42b44e75c81dd52716e10192ff36d0c1c8e379/setuptools-78.1.0.tar.gz (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/90/99/158ad0609729111163fc1f674a5a42f2605371a4cf036d0441070e2f7455/setuptools-78.1.1-py3-none-any.whl (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/81/9c/42314ee079a3e9c24b27515f9fbc7a3c1d29992c33451779011c74488375/setuptools-78.1.1.tar.gz (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/cc/ea/d53f2f8897c46a36df085964d07761ea4c2d1f2cf92019693b6742b7aabb/setuptools-79.0.0-py3-none-any.whl (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/7d/19/fecb7e2825616270f34512b3394cdcf6f45a79b5b6d94fdbd86a509e67b5/setuptools-79.0.0.tar.gz (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/0d/6d/b4752b044bf94cb802d88a888dc7d288baaf77d7910b7dedda74b5ceea0c/setuptools-79.0.1-py3-none-any.whl (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/bb/71/b6365e6325b3290e14957b2c3a804a529968c77a049b2ed40c095f749707/setuptools-79.0.1.tar.gz (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/23/63/5517029d6696ddf2bd378d46f63f479be001c31b462303170a1da57650cb/setuptools-80.0.0-py3-none-any.whl (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/44/80/97e25f0f1e4067677806084b7382a6ff9979f3d15119375c475c288db9d7/setuptools-80.0.0.tar.gz (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/2a/8e/2ee81652472f3c11503d1780c41844a9a9656989b69c29811a4631e4aeb9/setuptools-80.0.1-py3-none-any.whl (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/26/da/7a7021c150030617f90aa4a90a5b23f7b49af877f70ca46967e991645117/setuptools-80.0.1.tar.gz (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/8b/f6/126c9309c8fe93e5d6bb850593cd58d591daf2da45cc78b61e48d8d95879/setuptools-80.1.0-py3-none-any.whl (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/aa/b2/bd26ed086b842b68c8fe9aac380ad7e5118cf84fa7abd45bb059a88368a8/setuptools-80.1.0.tar.gz (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/51/95/522fb99f76ecf2efe0a372ee02665a3cda1e5653b37514fd05c98f05a9cf/setuptools-80.2.0-py3-none-any.whl (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/24/65/19a02e93da9d9f118ecb311419a353ae68a8e236c057bf164c866daa227f/setuptools-80.2.0.tar.gz (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/e6/61/a6239ff35d64e55def020335626894895847cc6659c0f8e1b676c58aad3b/setuptools-80.3.0-py3-none-any.whl (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/51/6c/a3f892949418b5b9aced7396919c75ffb57e38f08b712b565f5eb10677ee/setuptools-80.3.0.tar.gz (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/53/7e/5d8af3317ddbf9519b687bd1c39d8737fde07d97f54df65553faca5cffb1/setuptools-80.3.1-py3-none-any.whl (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/70/dc/3976b322de9d2e87ed0007cf04cc7553969b6c7b3f48a565d0333748fbcd/setuptools-80.3.1.tar.gz (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/b1/93/dba5ed08c2e31ec7cdc2ce75705a484ef0be1a2fecac8a58272489349de8/setuptools-80.4.0-py3-none-any.whl (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/95/32/0cc40fe41fd2adb80a2f388987f4f8db3c866c69e33e0b4c8b093fdf700e/setuptools-80.4.0.tar.gz (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/57/28/46ef5c181f4aa677d0d773da770a8c111e29f21ad67ed1d1b8e414d3fa0b/setuptools-80.6.0-py3-none-any.whl (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/bb/c6/4af6938e3c7321dab335c384d2ce4f604adc81099f124257de71599e301b/setuptools-80.6.0.tar.gz (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/70/78/ca86603790f24a597427bfedbc73a2aac5762b7c0b60a9d68631bc7e9a0e/setuptools-80.7.0-py3-none-any.whl (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/2b/22/2e66d286bf92bc5f0d0822346e53fc856b5e6ad38b2a53bcde7ea5eb1299/setuptools-80.7.0.tar.gz (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/a1/18/0e835c3a557dc5faffc8f91092f62fc337c1dab1066715842e7a4b318ec4/setuptools-80.7.1-py3-none-any.whl (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/9e/8b/dc1773e8e5d07fd27c1632c45c1de856ac3dbf09c0147f782ca6d990cf15/setuptools-80.7.1.tar.gz (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/58/29/93c53c098d301132196c3238c312825324740851d77a8500a2462c0fd888/setuptools-80.8.0-py3-none-any.whl (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/8d/d2/ec1acaaff45caed5c2dedb33b67055ba9d4e96b091094df90762e60135fe/setuptools-80.8.0.tar.gz (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/a3/dc/17031897dae0efacfea57dfd3a82fdd2a2aeb58e0ff71b77b87e44edc772/setuptools-80.9.0-py3-none-any.whl (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/18/5d/3bf57dcd21979b887f014ea83c24ae194cfcd12b9e0fda66b957c69d1fca/setuptools-80.9.0.tar.gz (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+Collecting setuptools<74.0.0,>=38.5.1 (from espnet)
+  Obtaining dependency information for setuptools<74.0.0,>=38.5.1 from https://files.pythonhosted.org/packages/07/6a/0270e295bf30c37567736b7fca10167640898214ff911273af37ddb95770/setuptools-73.0.1-py3-none-any.whl.metadata
+  Using cached setuptools-73.0.1-py3-none-any.whl.metadata (6.6 kB)
+Collecting packaging (from espnet)
+  Obtaining dependency information for packaging from https://files.pythonhosted.org/packages/20/12/38679034af332785aac8774540895e234f4d07f7545804097de4b666afd8/packaging-25.0-py3-none-any.whl.metadata
+  Using cached packaging-25.0-py3-none-any.whl.metadata (3.3 kB)
+Collecting configargparse>=1.2.1 (from espnet)
+  Obtaining dependency information for configargparse>=1.2.1 from https://files.pythonhosted.org/packages/31/28/d28211d29bcc3620b1fece85a65ce5bb22f18670a03cd28ea4b75ede270c/configargparse-1.7.1-py3-none-any.whl.metadata
+  Using cached configargparse-1.7.1-py3-none-any.whl.metadata (24 kB)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/f2/53/9465dedf2d69fe26008e7732cf6e0a385e387c240869e7d54eed49782a3c/typeguard-4.4.1-py3-none-any.whl (from https://pypi.org/simple/typeguard/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/62/c3/400917dd37d7b8c07e9723f3046818530423e1e759a56a22133362adab00/typeguard-4.4.1.tar.gz (from https://pypi.org/simple/typeguard/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/cf/4b/9a77dc721aa0b7f74440a42e4ef6f9a4fae7324e17f64f88b96f4c25cc05/typeguard-4.4.2-py3-none-any.whl (from https://pypi.org/simple/typeguard/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/70/60/8cd6a3d78d00ceeb2193c02b7ed08f063d5341ccdfb24df88e61f383048e/typeguard-4.4.2.tar.gz (from https://pypi.org/simple/typeguard/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/5c/18/662e2a14fcdbbc9e7842ad801a7f9292fcd6cf7df43af94e59ac9c0da9af/typeguard-4.4.3-py3-none-any.whl (from https://pypi.org/simple/typeguard/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/34/53/f701077a29ddf65ed4556119961ef517d767c07f15f6cdf0717ad985426b/typeguard-4.4.3.tar.gz (from https://pypi.org/simple/typeguard/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/1b/a9/e3aee762739c1d7528da1c3e06d518503f8b6c439c35549b53735ba52ead/typeguard-4.4.4-py3-none-any.whl (from https://pypi.org/simple/typeguard/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/c7/68/71c1a15b5f65f40e91b65da23b8224dad41349894535a97f63a52e462196/typeguard-4.4.4.tar.gz (from https://pypi.org/simple/typeguard/) (requires-python:>=3.9)
+Collecting typeguard (from espnet)
+  Obtaining dependency information for typeguard from https://files.pythonhosted.org/packages/61/a3/00203767544b597a9e3c57b29a84967b3230f00bdd9aa6a52a73187043b4/typeguard-4.4.0-py3-none-any.whl.metadata
+  Downloading typeguard-4.4.0-py3-none-any.whl.metadata (3.8 kB)
+Collecting humanfriendly (from espnet)
+  Obtaining dependency information for humanfriendly from https://files.pythonhosted.org/packages/f0/0f/310fb31e39e2d734ccaa2c0fb981ee41f7bd5056ce9bc29b2248bd569169/humanfriendly-10.0-py2.py3-none-any.whl.metadata
+  Using cached humanfriendly-10.0-py2.py3-none-any.whl.metadata (9.2 kB)
+  Link requires a different Python (3.8.20 not in: '<3.13,>=3.9'): https://files.pythonhosted.org/packages/8c/95/61cf1d8453b2de242991b5371b31d51d53dde38dc99b9b43c0d2b1933fac/scipy-1.11.0rc1.tar.gz (from https://pypi.org/simple/scipy/) (requires-python:<3.13,>=3.9)
+  Link requires a different Python (3.8.20 not in: '<3.13,>=3.9'): https://files.pythonhosted.org/packages/8a/56/d9cc5fa64b8083d495bf1db0a2b10923acda3a105eca7f28765f47564be0/scipy-1.11.0rc2.tar.gz (from https://pypi.org/simple/scipy/) (requires-python:<3.13,>=3.9)
+  Link requires a different Python (3.8.20 not in: '<3.13,>=3.9'): https://files.pythonhosted.org/packages/fa/d0/724c8204f87b6f807e3e67de32b8b4922d579154a448ce94e89129064bf1/scipy-1.11.0.tar.gz (from https://pypi.org/simple/scipy/) (requires-python:<3.13,>=3.9)
+  Link requires a different Python (3.8.20 not in: '<3.13,>=3.9'): https://files.pythonhosted.org/packages/a6/98/fceb84466a74b8fe74ce2dcc3a0a89cb7b4a689d4775e0fb4c95f335ef6a/scipy-1.11.1.tar.gz (from https://pypi.org/simple/scipy/) (requires-python:<3.13,>=3.9)
+  Link requires a different Python (3.8.20 not in: '<3.13,>=3.9'): https://files.pythonhosted.org/packages/9c/ef/87a5565907645998d7c62e76b84b0ca9f0b7c25cd433f5617a968051cec3/scipy-1.11.2.tar.gz (from https://pypi.org/simple/scipy/) (requires-python:<3.13,>=3.9)
+  Link requires a different Python (3.8.20 not in: '<3.13,>=3.9'): https://files.pythonhosted.org/packages/39/7b/9f265b7f074195392e893a5cdc66116c2f7a31fd5f3d9cceff661ec6df82/scipy-1.11.3.tar.gz (from https://pypi.org/simple/scipy/) (requires-python:<3.13,>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/6e/1f/91144ba78dccea567a6466262922786ffc97be1e9b06ed9574ef0edc11e1/scipy-1.11.4.tar.gz (from https://pypi.org/simple/scipy/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/ac/e5/412d60f68841286c7c11a3790dc83545647b618e7ed006bc3630667d2a8f/scipy-1.12.0rc1.tar.gz (from https://pypi.org/simple/scipy/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/fd/3b/69060d528565fd558442fcaf8aab745a264b3153f74d7b3f13461eefc947/scipy-1.12.0rc2.tar.gz (from https://pypi.org/simple/scipy/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/30/85/cdbf2c3c460fe5aae812917866392068a88d02f07de0fe31ce738734c477/scipy-1.12.0.tar.gz (from https://pypi.org/simple/scipy/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/dc/23/9948855f3227e8327713a103df97a32dc0109aada23e0fe3df3429ea2e55/scipy-1.13.0rc1.tar.gz (from https://pypi.org/simple/scipy/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/fb/a3/328965862f41ba67d27ddd26205962007ec87d99eec6d364a29bf00ac093/scipy-1.13.0.tar.gz (from https://pypi.org/simple/scipy/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/ae/00/48c2f661e2816ccf2ecd77982f6605b2950afe60f60a52b4cbbc2504aa8f/scipy-1.13.1.tar.gz (from https://pypi.org/simple/scipy/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.10'): https://files.pythonhosted.org/packages/a1/ee/e1023e41c2c9f9ac7b9d2bafd445b6036d2a2226000028c8c3202eee5234/scipy-1.14.0rc1.tar.gz (from https://pypi.org/simple/scipy/) (requires-python:>=3.10)
+  Link requires a different Python (3.8.20 not in: '>=3.10'): https://files.pythonhosted.org/packages/50/91/62f158448035e9a6e6df9eb472307e5ce207d30e99eac6dc7bebefd83a48/scipy-1.14.0rc2.tar.gz (from https://pypi.org/simple/scipy/) (requires-python:>=3.10)
+  Link requires a different Python (3.8.20 not in: '>=3.10'): https://files.pythonhosted.org/packages/4e/e5/0230da034a2e1b1feb32621d7cd57c59484091d6dccc9e6b855b0d309fc9/scipy-1.14.0.tar.gz (from https://pypi.org/simple/scipy/) (requires-python:>=3.10)
+  Link requires a different Python (3.8.20 not in: '>=3.10'): https://files.pythonhosted.org/packages/62/11/4d44a1f274e002784e4dbdb81e0ea96d2de2d1045b2132d5af62cc31fd28/scipy-1.14.1.tar.gz (from https://pypi.org/simple/scipy/) (requires-python:>=3.10)
+  Link requires a different Python (3.8.20 not in: '>=3.10'): https://files.pythonhosted.org/packages/50/46/fe57b2229fda1eefe4e49384b47dd0a6a13f7246818241d0c35b44fe738f/scipy-1.15.0rc1.tar.gz (from https://pypi.org/simple/scipy/) (requires-python:>=3.10)
+  Link requires a different Python (3.8.20 not in: '>=3.10'): https://files.pythonhosted.org/packages/34/16/1f30b82795da21995dc4e38248b07162c21e4512644c981d980f79f363f4/scipy-1.15.0rc2.tar.gz (from https://pypi.org/simple/scipy/) (requires-python:>=3.10)
+  Link requires a different Python (3.8.20 not in: '>=3.10'): https://files.pythonhosted.org/packages/d9/7b/2b8ac283cf32465ed08bc20a83d559fe7b174a484781702ba8accea001d6/scipy-1.15.0.tar.gz (from https://pypi.org/simple/scipy/) (requires-python:>=3.10)
+  Link requires a different Python (3.8.20 not in: '>=3.10'): https://files.pythonhosted.org/packages/76/c6/8eb0654ba0c7d0bb1bf67bf8fbace101a8e4f250f7722371105e8b6f68fc/scipy-1.15.1.tar.gz (from https://pypi.org/simple/scipy/) (requires-python:>=3.10)
+  Link requires a different Python (3.8.20 not in: '>=3.10'): https://files.pythonhosted.org/packages/b7/b9/31ba9cd990e626574baf93fbc1ac61cf9ed54faafd04c479117517661637/scipy-1.15.2.tar.gz (from https://pypi.org/simple/scipy/) (requires-python:>=3.10)
+  Link requires a different Python (3.8.20 not in: '>=3.10'): https://files.pythonhosted.org/packages/0f/37/6964b830433e654ec7485e45a00fc9a27cf868d622838f6b6d9c5ec0d532/scipy-1.15.3.tar.gz (from https://pypi.org/simple/scipy/) (requires-python:>=3.10)
+  Link requires a different Python (3.8.20 not in: '>=3.11'): https://files.pythonhosted.org/packages/7a/9e/2c8b1e1052151067e73b4192c0c04f355b3d31b485bd74f48bd4e9e87916/scipy-1.16.0rc1.tar.gz (from https://pypi.org/simple/scipy/) (requires-python:>=3.11)
+  Link requires a different Python (3.8.20 not in: '>=3.11'): https://files.pythonhosted.org/packages/9c/ff/c01073c71d82baeacf71b2ae7fc6d47bb4ff898b3f98ce7897098ca36c26/scipy-1.16.0rc2.tar.gz (from https://pypi.org/simple/scipy/) (requires-python:>=3.11)
+  Link requires a different Python (3.8.20 not in: '>=3.11'): https://files.pythonhosted.org/packages/81/18/b06a83f0c5ee8cddbde5e3f3d0bb9b702abfa5136ef6d4620ff67df7eee5/scipy-1.16.0.tar.gz (from https://pypi.org/simple/scipy/) (requires-python:>=3.11)
+Collecting scipy>=1.4.1 (from espnet)
+  Obtaining dependency information for scipy>=1.4.1 from https://files.pythonhosted.org/packages/69/f0/fb07a9548e48b687b8bf2fa81d71aba9cfc548d365046ca1c791e24db99d/scipy-1.10.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata
+  Using cached scipy-1.10.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (58 kB)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/89/ec/00d68c4ddfedfe64159999e5f8a98fb8442729a63e2077eb9dcd89623d27/filelock-3.17.0-py3-none-any.whl (from https://pypi.org/simple/filelock/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/dc/9c/0b15fb47b464e1b663b1acd1253a062aa5feecb07d4e597daea542ebd2b5/filelock-3.17.0.tar.gz (from https://pypi.org/simple/filelock/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/4d/36/2a115987e2d8c300a974597416d9de88f2444426de9571f4b59b2cca3acc/filelock-3.18.0-py3-none-any.whl (from https://pypi.org/simple/filelock/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/0a/10/c23352565a6544bdc5353e0b15fc1c563352101f30e24bf500207a54df9a/filelock-3.18.0.tar.gz (from https://pypi.org/simple/filelock/) (requires-python:>=3.9)
+Collecting filelock (from espnet)
+  Obtaining dependency information for filelock from https://files.pythonhosted.org/packages/b9/f8/feced7779d755758a52d1f6635d990b8d98dc0a29fa568bbe0625f18fdf3/filelock-3.16.1-py3-none-any.whl.metadata
+  Using cached filelock-3.16.1-py3-none-any.whl.metadata (2.9 kB)
+Collecting librosa==0.9.2 (from espnet)
+  Obtaining dependency information for librosa==0.9.2 from https://files.pythonhosted.org/packages/e4/1c/23ef2fd02913d65d43dc7516fc829af709314a66c6f0bdc2e361fdcecc2d/librosa-0.9.2-py3-none-any.whl.metadata
+  Using cached librosa-0.9.2-py3-none-any.whl.metadata (8.2 kB)
+Collecting jamo==0.4.1 (from espnet)
+  Obtaining dependency information for jamo==0.4.1 from https://files.pythonhosted.org/packages/ac/cc/49812faae67f9a24be6ddaf58a2cf7e8c3cbfcf5b762d9414f7103d2ea2c/jamo-0.4.1-py3-none-any.whl.metadata
+  Using cached jamo-0.4.1-py3-none-any.whl.metadata (2.3 kB)
+Collecting PyYAML>=5.1.2 (from espnet)
+  Obtaining dependency information for PyYAML>=5.1.2 from https://files.pythonhosted.org/packages/fd/7f/2c3697bba5d4aa5cc2afe81826d73dfae5f049458e44732c7a0938baa673/PyYAML-6.0.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata
+  Using cached PyYAML-6.0.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (2.1 kB)
+Collecting soundfile>=0.10.2 (from espnet)
+  Obtaining dependency information for soundfile>=0.10.2 from https://files.pythonhosted.org/packages/57/5e/70bdd9579b35003a489fc850b5047beeda26328053ebadc1fb60f320f7db/soundfile-0.13.1-py2.py3-none-manylinux_2_28_x86_64.whl.metadata
+  Using cached soundfile-0.13.1-py2.py3-none-manylinux_2_28_x86_64.whl.metadata (16 kB)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/fc/4f/a72139ebeb03ebbb9d78ce4e7475332cf46027f978491dbcfc54d60f272a/h5py-3.12.0.tar.gz (from https://pypi.org/simple/h5py/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/cc/0c/5c2b0a88158682aeafb10c1c2b735df5bc31f165bfe192f2ee9f2a23b5f1/h5py-3.12.1.tar.gz (from https://pypi.org/simple/h5py/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/03/2e/a22d6a8bfa6f8be33e7febd985680fba531562795f0a9077ed1eb047bfb0/h5py-3.13.0.tar.gz (from https://pypi.org/simple/h5py/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/5d/57/dfb3c5c3f1bf5f5ef2e59a22dec4ff1f3d7408b55bfcefcfb0ea69ef21c6/h5py-3.14.0.tar.gz (from https://pypi.org/simple/h5py/) (requires-python:>=3.9)
+Collecting h5py>=2.10.0 (from espnet)
+  Obtaining dependency information for h5py>=2.10.0 from https://files.pythonhosted.org/packages/86/43/fd0bd74462b3c3fb35d98568935d3e5a435c8ec24d45ef408ac8869166af/h5py-3.11.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata
+  Downloading h5py-3.11.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (2.5 kB)
+Collecting kaldiio>=2.18.0 (from espnet)
+  Obtaining dependency information for kaldiio>=2.18.0 from https://files.pythonhosted.org/packages/ae/e3/6c3b42233225f398f7a72988b524f654ae818cca0d441db847a2761203e9/kaldiio-2.18.1-py3-none-any.whl.metadata
+  Using cached kaldiio-2.18.1-py3-none-any.whl.metadata (13 kB)
+Collecting torch>=1.11.0 (from espnet)
+  Obtaining dependency information for torch>=1.11.0 from https://files.pythonhosted.org/packages/a9/71/45aac46b75742e08d2d6f9fc2b612223b5e36115b8b2ed673b23c21b5387/torch-2.4.1-cp38-cp38-manylinux1_x86_64.whl.metadata
+  Using cached torch-2.4.1-cp38-cp38-manylinux1_x86_64.whl.metadata (26 kB)
+Collecting torch-complex (from espnet)
+  Obtaining dependency information for torch-complex from https://files.pythonhosted.org/packages/f4/c5/9b4d756a7ada951e9b17dcc636f98ed1073c737ae809b150ef408afb6298/torch_complex-0.4.4-py3-none-any.whl.metadata
+  Using cached torch_complex-0.4.4-py3-none-any.whl.metadata (3.1 kB)
+Collecting nltk>=3.4.5 (from espnet)
+  Obtaining dependency information for nltk>=3.4.5 from https://files.pythonhosted.org/packages/4d/66/7d9e26593edda06e8cb531874633f7c2372279c3b0f46235539fe546df8b/nltk-3.9.1-py3-none-any.whl.metadata
+  Using cached nltk-3.9.1-py3-none-any.whl.metadata (2.9 kB)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/d0/b2/fe774844d1857804cc884bba67bec38f649c99d0dc1ee7cbbf1da601357c/numpy-1.25.0.tar.gz (from https://pypi.org/simple/numpy/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/cf/7a/f68d1d658a0e68084097beb212fa9356fee7eabff8b57231cc4acb555b12/numpy-1.25.1.tar.gz (from https://pypi.org/simple/numpy/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/a0/41/8f53eff8e969dd8576ddfb45e7ed315407d27c7518ae49418be8ed532b07/numpy-1.25.2.tar.gz (from https://pypi.org/simple/numpy/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '<3.13,>=3.9'): https://files.pythonhosted.org/packages/55/b3/b13bce39ba82b7398c06d10446f5ffd5c07db39b09bd37370dc720c7951c/numpy-1.26.0.tar.gz (from https://pypi.org/simple/numpy/) (requires-python:<3.13,>=3.9)
+  Link requires a different Python (3.8.20 not in: '<3.13,>=3.9'): https://files.pythonhosted.org/packages/78/23/f78fd8311e0f710fe1d065d50b92ce0057fe877b8ed7fd41b28ad6865bfc/numpy-1.26.1.tar.gz (from https://pypi.org/simple/numpy/) (requires-python:<3.13,>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/dd/2b/205ddff2314d4eea852e31d53b8e55eb3f32b292efc3dd86bd827ab9019d/numpy-1.26.2.tar.gz (from https://pypi.org/simple/numpy/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/d0/b0/13e2b50c95bfc1d5ee04925eb5c105726c838f922d0aaddd57b7c8be0f8b/numpy-1.26.3.tar.gz (from https://pypi.org/simple/numpy/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/65/6e/09db70a523a96d25e115e71cc56a6f9031e7b8cd166c1ac8438307c14058/numpy-1.26.4.tar.gz (from https://pypi.org/simple/numpy/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/05/35/fb1ada118002df3fe91b5c3b28bc0d90f879b881a5d8f68b1f9b79c44bfe/numpy-2.0.0.tar.gz (from https://pypi.org/simple/numpy/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/1c/8a/0db635b225d2aa2984e405dc14bd2b0c324a0c312ea1bc9d283f2b83b038/numpy-2.0.1.tar.gz (from https://pypi.org/simple/numpy/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/a9/75/10dd1f8116a8b796cb2c737b674e02d02e80454bda953fa7e65d8c12b016/numpy-2.0.2.tar.gz (from https://pypi.org/simple/numpy/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.10'): https://files.pythonhosted.org/packages/54/a4/f8188c4f3e07f7737683588210c073478abcb542048cf4ab6fedad0b458a/numpy-2.1.0.tar.gz (from https://pypi.org/simple/numpy/) (requires-python:>=3.10)
+  Link requires a different Python (3.8.20 not in: '>=3.10'): https://files.pythonhosted.org/packages/59/5f/9003bb3e632f2b58f5e3a3378902dcc73c5518070736c6740fe52454e8e1/numpy-2.1.1.tar.gz (from https://pypi.org/simple/numpy/) (requires-python:>=3.10)
+  Link requires a different Python (3.8.20 not in: '>=3.10'): https://files.pythonhosted.org/packages/4b/d1/8a730ea07f4a37d94f9172f4ce1d81064b7a64766b460378be278952de75/numpy-2.1.2.tar.gz (from https://pypi.org/simple/numpy/) (requires-python:>=3.10)
+  Link requires a different Python (3.8.20 not in: '>=3.10'): https://files.pythonhosted.org/packages/25/ca/1166b75c21abd1da445b97bf1fa2f14f423c6cfb4fc7c4ef31dccf9f6a94/numpy-2.1.3.tar.gz (from https://pypi.org/simple/numpy/) (requires-python:>=3.10)
+  Link requires a different Python (3.8.20 not in: '>=3.10'): https://files.pythonhosted.org/packages/d1/eb/9c688381b252f711cadf3ec38b3eceb0b946ff5a161a3adc520c886fed43/numpy-2.2.0rc1.tar.gz (from https://pypi.org/simple/numpy/) (requires-python:>=3.10)
+  Link requires a different Python (3.8.20 not in: '>=3.10'): https://files.pythonhosted.org/packages/47/1b/1d565e0f6e156e1522ab564176b8b29d71e13d8caf003a08768df3d5cec5/numpy-2.2.0.tar.gz (from https://pypi.org/simple/numpy/) (requires-python:>=3.10)
+  Link requires a different Python (3.8.20 not in: '>=3.10'): https://files.pythonhosted.org/packages/f2/a5/fdbf6a7871703df6160b5cf3dd774074b086d278172285c52c2758b76305/numpy-2.2.1.tar.gz (from https://pypi.org/simple/numpy/) (requires-python:>=3.10)
+  Link requires a different Python (3.8.20 not in: '>=3.10'): https://files.pythonhosted.org/packages/ec/d0/c12ddfd3a02274be06ffc71f3efc6d0e457b0409c4481596881e748cb264/numpy-2.2.2.tar.gz (from https://pypi.org/simple/numpy/) (requires-python:>=3.10)
+  Link requires a different Python (3.8.20 not in: '>=3.10'): https://files.pythonhosted.org/packages/fb/90/8956572f5c4ae52201fdec7ba2044b2c882832dcec7d5d0922c9e9acf2de/numpy-2.2.3.tar.gz (from https://pypi.org/simple/numpy/) (requires-python:>=3.10)
+  Link requires a different Python (3.8.20 not in: '>=3.10'): https://files.pythonhosted.org/packages/e1/78/31103410a57bc2c2b93a3597340a8119588571f6a4539067546cb9a0bfac/numpy-2.2.4.tar.gz (from https://pypi.org/simple/numpy/) (requires-python:>=3.10)
+  Link requires a different Python (3.8.20 not in: '>=3.10'): https://files.pythonhosted.org/packages/dc/b2/ce4b867d8cd9c0ee84938ae1e6a6f7926ebf928c9090d036fc3c6a04f946/numpy-2.2.5.tar.gz (from https://pypi.org/simple/numpy/) (requires-python:>=3.10)
+  Link requires a different Python (3.8.20 not in: '>=3.10'): https://files.pythonhosted.org/packages/76/21/7d2a95e4bba9dc13d043ee156a356c0a8f0c6309dff6b21b4d71a073b8a8/numpy-2.2.6.tar.gz (from https://pypi.org/simple/numpy/) (requires-python:>=3.10)
+  Link requires a different Python (3.8.20 not in: '>=3.11'): https://files.pythonhosted.org/packages/e7/b1/50f64d9a874841804dceb5d3e26d953114f97a35e331d2571320f1c14e51/numpy-2.3.0rc1.tar.gz (from https://pypi.org/simple/numpy/) (requires-python:>=3.11)
+  Link requires a different Python (3.8.20 not in: '>=3.11'): https://files.pythonhosted.org/packages/f3/db/8e12381333aea300890829a0a36bfa738cac95475d88982d538725143fd9/numpy-2.3.0.tar.gz (from https://pypi.org/simple/numpy/) (requires-python:>=3.11)
+  Link requires a different Python (3.8.20 not in: '>=3.11'): https://files.pythonhosted.org/packages/2e/19/d7c972dfe90a353dbd3efbbe1d14a5951de80c99c9dc1b93cd998d51dc0f/numpy-2.3.1.tar.gz (from https://pypi.org/simple/numpy/) (requires-python:>=3.11)
+Collecting numpy<1.24 (from espnet)
+  Obtaining dependency information for numpy<1.24 from https://files.pythonhosted.org/packages/c6/4f/63f6f16d3f44a764a3b66c6233e133baf912e198a93e14c39ee991f587d0/numpy-1.23.5-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata
+  Downloading numpy-1.23.5-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (2.3 kB)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/9f/f9/6146e8d85d3156f528e7e08b5b2df0be2dd54abe1d5c1846bced4ed973a2/protobuf-6.30.0rc1-py3-none-any.whl (from https://pypi.org/simple/protobuf/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/1f/de/3ab60cd4d8205267fb8d6425fecb1ce3a1b6c69567c6fa53b1f4e14e936e/protobuf-6.30.0rc1.tar.gz (from https://pypi.org/simple/protobuf/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/78/65/2db05d2aa08f25a4c3e230c89c54367cbc0cb7504939f4fc4f7320c28b87/protobuf-6.30.0rc2-py3-none-any.whl (from https://pypi.org/simple/protobuf/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/46/e5/65440deead751030b6544da3d33c8f000228f75d32c5e54a27c33c9a9ec7/protobuf-6.30.0rc2.tar.gz (from https://pypi.org/simple/protobuf/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/51/6f/21c2b7de96c3051f847a4a88a12fdf015ed6b7d50fc131fb101a739bd7a5/protobuf-6.30.0-py3-none-any.whl (from https://pypi.org/simple/protobuf/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/53/6a/2629bb3529e5bdfbd6c4608ff5c7d942cd4beae85793f84ba543aab2548a/protobuf-6.30.0.tar.gz (from https://pypi.org/simple/protobuf/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/a1/d6/683a3d470398e45b4ad9b6c95b7cbabc32f9a8daf454754f0e3df1edffa6/protobuf-6.30.1-py3-none-any.whl (from https://pypi.org/simple/protobuf/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/55/de/8216061897a67b2ffe302fd51aaa76bbf613001f01cd96e2416a4955dd2b/protobuf-6.30.1.tar.gz (from https://pypi.org/simple/protobuf/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/e5/a1/93c2acf4ade3c5b557d02d500b06798f4ed2c176fa03e3c34973ca92df7f/protobuf-6.30.2-py3-none-any.whl (from https://pypi.org/simple/protobuf/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/c8/8c/cf2ac658216eebe49eaedf1e06bc06cbf6a143469236294a1171a51357c3/protobuf-6.30.2.tar.gz (from https://pypi.org/simple/protobuf/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/f1/6a/2ee7c3a2c8ca49d37e9ca0a9596db3378e85ce6729693d20d8f4660b950f/protobuf-6.31.0rc1-py3-none-any.whl (from https://pypi.org/simple/protobuf/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/9d/b3/b8d85777cf54d85f0397c7c60bd3bc4e6a9e14a0b642a67fdeee87de248a/protobuf-6.31.0rc1.tar.gz (from https://pypi.org/simple/protobuf/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/4a/f2/c94cd68c558191b21a96af0ad5f29182f24258e7868dcd1a3d7b736ff909/protobuf-6.31.0rc2-py3-none-any.whl (from https://pypi.org/simple/protobuf/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/d3/a7/ebe4b106595f4d700e1a730f40cea4da7e77ccfa6dd7db082bb271872e52/protobuf-6.31.0rc2.tar.gz (from https://pypi.org/simple/protobuf/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/ee/01/1ed1d482960a5718fd99c82f6d79120181947cfd4667ec3944d448ed44a3/protobuf-6.31.0-py3-none-any.whl (from https://pypi.org/simple/protobuf/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/13/48/718c1e104a2e89970a8ff3b06d87e152834b576c570a6908f8c17ba88d65/protobuf-6.31.0.tar.gz (from https://pypi.org/simple/protobuf/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/f7/af/ab3c51ab7507a7325e98ffe691d9495ee3d3aa5f589afad65ec920d39821/protobuf-6.31.1-py3-none-any.whl (from https://pypi.org/simple/protobuf/) (requires-python:>=3.9)
+  Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/52/f3/b9655a711b32c19720253f6f06326faf90580834e2e83f840472d752bc8b/protobuf-6.31.1.tar.gz (from https://pypi.org/simple/protobuf/) (requires-python:>=3.9)
+Collecting protobuf (from espnet)
+  Obtaining dependency information for protobuf from https://files.pythonhosted.org/packages/85/e4/07c80521879c2d15f321465ac24c70efe2381378c00bf5e56a0f4fbac8cd/protobuf-5.29.5-cp38-abi3-manylinux2014_x86_64.whl.metadata
+  Downloading protobuf-5.29.5-cp38-abi3-manylinux2014_x86_64.whl.metadata (592 bytes)
+Collecting hydra-core (from espnet)
+  Obtaining dependency information for hydra-core from https://files.pythonhosted.org/packages/c6/50/e0edd38dcd63fb26a8547f13d28f7a008bc4a3fd4eb4ff030673f22ad41a/hydra_core-1.3.2-py3-none-any.whl.metadata
+  Downloading hydra_core-1.3.2-py3-none-any.whl.metadata (5.5 kB)
+Collecting opt-einsum (from espnet)
+  Obtaining dependency information for opt-einsum from https://files.pythonhosted.org/packages/23/cd/066e86230ae37ed0be70aae89aabf03ca8d9f39c8aea0dec8029455b5540/opt_einsum-3.4.0-py3-none-any.whl.metadata
+  Downloading opt_einsum-3.4.0-py3-none-any.whl.metadata (6.3 kB)
+Collecting sentencepiece==0.1.97 (from espnet)
+  Obtaining dependency information for sentencepiece==0.1.97 from https://files.pythonhosted.org/packages/0e/7e/a69d054029c7c0470e490b3265bbd1497df9492599b1820b9d5be2c60444/sentencepiece-0.1.97-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata
+  Downloading sentencepiece-0.1.97-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (7.7 kB)
+Collecting ctc-segmentation>=1.6.6 (from espnet)
+  Using cached ctc_segmentation-1.7.4.tar.gz (73 kB)
+  Installing build dependencies: started
+  Running command pip subprocess to install build dependencies
+  Using pip 25.0.1 from /home/jeevanth/Voice_cloning/env/lib/python3.8/site-packages/pip (python 3.8)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/f2/67/b488d1c2408bc619bdd9f8c929e67d7743087dfa00bbdc0c0c5db70161f9/wheel-0.46.0-py3-none-any.whl (from https://pypi.org/simple/wheel/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/11/d9/f16ef50f69f8b85961f8df7a2bdad08a98a32e79dfabf9f14f250fc0324d/wheel-0.46.0.tar.gz (from https://pypi.org/simple/wheel/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/af/44/31d964a260fcda6bf2f59384231bbf4962ac796a5d36c554162b5411b8db/wheel-0.46.1-py3-none-any.whl (from https://pypi.org/simple/wheel/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/fb/62/e90918c4558b002726ab930863c0cbd3e7cf9a7befa1d4a1a240cecdb379/wheel-0.46.1.tar.gz (from https://pypi.org/simple/wheel/) (requires-python:>=3.9)
+  Collecting wheel
+    Obtaining dependency information for wheel from https://files.pythonhosted.org/packages/0b/2c/87f3254fd8ffd29e4c02732eee68a83a1d3c346ae39bc6822dcbcb697f2b/wheel-0.45.1-py3-none-any.whl.metadata
+    Using cached wheel-0.45.1-py3-none-any.whl.metadata (2.3 kB)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/21/df/7c6bb83dcb45b35dc35b310d752f254211cde0bcd2a35290ea6e2862b2a9/setuptools-75.4.0-py3-none-any.whl (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/e2/73/c1ccf3e057ef6331cc6861412905dc218203bde46dfe8262c1631aa7fb11/setuptools-75.4.0.tar.gz (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/fe/df/88ccbee85aefbca071db004fdc8f8d2507d55d5a9dc27ebb93c92edb1bd8/setuptools-75.5.0-py3-none-any.whl (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/c8/db/722a42ffdc226e950c4757b3da7b56ff5c090bb265dccd707f7b8a3c6fee/setuptools-75.5.0.tar.gz (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/55/21/47d163f615df1d30c094f6c8bbb353619274edccf0327b185cc2493c2c33/setuptools-75.6.0-py3-none-any.whl (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/43/54/292f26c208734e9a7f067aea4a7e282c080750c4546559b58e2e45413ca0/setuptools-75.6.0.tar.gz (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/4e/6e/abdfaaf5c294c553e7a81cf5d801fbb4f53f5c5b6646de651f92a2667547/setuptools-75.7.0-py3-none-any.whl (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/ac/57/e6f0bde5a2c333a32fbcce201f906c1fd0b3a7144138712a5e9d9598c5ec/setuptools-75.7.0.tar.gz (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/69/8a/b9dc7678803429e4a3bc9ba462fa3dd9066824d3c607490235c6a796be5a/setuptools-75.8.0-py3-none-any.whl (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/92/ec/089608b791d210aec4e7f97488e67ab0d33add3efccb83a056cbafe3a2a6/setuptools-75.8.0.tar.gz (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/da/bd/ac215d31c2904e47ec5332897442bdc19fd6b21a82068d057152f4e9c1cf/setuptools-75.8.1-py3-none-any.whl (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/e8/42/0e5f75d734f181367de4acd9aba8f875453a5905169c5485ca8416b015ae/setuptools-75.8.1.tar.gz (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/a9/38/7d7362e031bd6dc121e5081d8cb6aa6f6fedf2b67bf889962134c6da4705/setuptools-75.8.2-py3-none-any.whl (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/d1/53/43d99d7687e8cdef5ab5f9ec5eaf2c0423c2b35133a2b7e7bc276fc32b21/setuptools-75.8.2.tar.gz (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/e2/82/23e063d15ecb1484cd0bf713b36ef916bdc30aa153b71828e8b22a5b2d7b/setuptools-75.9.0-py3-none-any.whl (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/f5/38/6cafe2b3d55661b5d72dc12c038d83f6347d889853697cb98b5e4a5d853d/setuptools-75.9.0.tar.gz (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/8d/28/19ad82a0549d73ec6feffa6711eacf9246035a9426b8a8b528440c9959d2/setuptools-75.9.1-py3-none-any.whl (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/d0/df/ec5ad16b0ec305081c372bd0550fd638fa96e472cd5a03049c344076ea76/setuptools-75.9.1.tar.gz (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/37/66/d2d7e6ad554f3a7c7297c3f8ef6e22643ad3d35ef5c63bf488bc89f32f31/setuptools-76.0.0-py3-none-any.whl (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/32/d2/7b171caf085ba0d40d8391f54e1c75a1cda9255f542becf84575cfd8a732/setuptools-76.0.0.tar.gz (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/62/fb/47dc84839f2743553075c80d08543b3d0f498f42329141b6717504abcdfd/setuptools-76.1.0-py3-none-any.whl (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/fa/2b/287ade3a580869e6178cb37d045f54272b1f006f2c0ff6fad08db258d027/setuptools-76.1.0.tar.gz (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/40/50/bc3d02829a3babd70b7f1414c93cf6acd198976f0469a07d0e7b813c5002/setuptools-77.0.1-py3-none-any.whl (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/ea/df/9f719dc48f64284be8bd99e2e0bb0dd6e9f8e2c2c3c7bf7a685bc5adf2c7/setuptools-77.0.1.tar.gz (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/a9/07/99f2cefae815c66eb23148f15d79ec055429c38fa8986edcc712ab5f3223/setuptools-77.0.3-py3-none-any.whl (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/81/ed/7101d53811fd359333583330ff976e5177c5e871ca8b909d1d6c30553aa3/setuptools-77.0.3.tar.gz (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/42/c8/3faed884acdb2c1f2eb353cbacdd1ee4943de89a199d1f622ebefb6170e5/setuptools-78.0.1-py3-none-any.whl (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/47/42/55a8f24bd1287676b23e56a6d94e416be390ca6e0ee30fa46a782d038f80/setuptools-78.0.1.tar.gz (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/aa/db/2fd473dfe436ad19fda190f4079162d400402aedfcc41e048d38c0a375c6/setuptools-78.0.2-py3-none-any.whl (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/4c/f4/aa8d364f0dc1f33b2718938648c31202e2db5cd6479a73f0a9ca5a88372d/setuptools-78.0.2.tar.gz (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/54/21/f43f0a1fa8b06b32812e0975981f4677d28e0f3271601dc88ac5a5b83220/setuptools-78.1.0-py3-none-any.whl (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/a9/5a/0db4da3bc908df06e5efae42b44e75c81dd52716e10192ff36d0c1c8e379/setuptools-78.1.0.tar.gz (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/90/99/158ad0609729111163fc1f674a5a42f2605371a4cf036d0441070e2f7455/setuptools-78.1.1-py3-none-any.whl (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/81/9c/42314ee079a3e9c24b27515f9fbc7a3c1d29992c33451779011c74488375/setuptools-78.1.1.tar.gz (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/cc/ea/d53f2f8897c46a36df085964d07761ea4c2d1f2cf92019693b6742b7aabb/setuptools-79.0.0-py3-none-any.whl (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/7d/19/fecb7e2825616270f34512b3394cdcf6f45a79b5b6d94fdbd86a509e67b5/setuptools-79.0.0.tar.gz (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/0d/6d/b4752b044bf94cb802d88a888dc7d288baaf77d7910b7dedda74b5ceea0c/setuptools-79.0.1-py3-none-any.whl (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/bb/71/b6365e6325b3290e14957b2c3a804a529968c77a049b2ed40c095f749707/setuptools-79.0.1.tar.gz (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/23/63/5517029d6696ddf2bd378d46f63f479be001c31b462303170a1da57650cb/setuptools-80.0.0-py3-none-any.whl (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/44/80/97e25f0f1e4067677806084b7382a6ff9979f3d15119375c475c288db9d7/setuptools-80.0.0.tar.gz (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/2a/8e/2ee81652472f3c11503d1780c41844a9a9656989b69c29811a4631e4aeb9/setuptools-80.0.1-py3-none-any.whl (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/26/da/7a7021c150030617f90aa4a90a5b23f7b49af877f70ca46967e991645117/setuptools-80.0.1.tar.gz (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/8b/f6/126c9309c8fe93e5d6bb850593cd58d591daf2da45cc78b61e48d8d95879/setuptools-80.1.0-py3-none-any.whl (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/aa/b2/bd26ed086b842b68c8fe9aac380ad7e5118cf84fa7abd45bb059a88368a8/setuptools-80.1.0.tar.gz (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/51/95/522fb99f76ecf2efe0a372ee02665a3cda1e5653b37514fd05c98f05a9cf/setuptools-80.2.0-py3-none-any.whl (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/24/65/19a02e93da9d9f118ecb311419a353ae68a8e236c057bf164c866daa227f/setuptools-80.2.0.tar.gz (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/e6/61/a6239ff35d64e55def020335626894895847cc6659c0f8e1b676c58aad3b/setuptools-80.3.0-py3-none-any.whl (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/51/6c/a3f892949418b5b9aced7396919c75ffb57e38f08b712b565f5eb10677ee/setuptools-80.3.0.tar.gz (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/53/7e/5d8af3317ddbf9519b687bd1c39d8737fde07d97f54df65553faca5cffb1/setuptools-80.3.1-py3-none-any.whl (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/70/dc/3976b322de9d2e87ed0007cf04cc7553969b6c7b3f48a565d0333748fbcd/setuptools-80.3.1.tar.gz (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/b1/93/dba5ed08c2e31ec7cdc2ce75705a484ef0be1a2fecac8a58272489349de8/setuptools-80.4.0-py3-none-any.whl (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/95/32/0cc40fe41fd2adb80a2f388987f4f8db3c866c69e33e0b4c8b093fdf700e/setuptools-80.4.0.tar.gz (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/57/28/46ef5c181f4aa677d0d773da770a8c111e29f21ad67ed1d1b8e414d3fa0b/setuptools-80.6.0-py3-none-any.whl (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/bb/c6/4af6938e3c7321dab335c384d2ce4f604adc81099f124257de71599e301b/setuptools-80.6.0.tar.gz (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/70/78/ca86603790f24a597427bfedbc73a2aac5762b7c0b60a9d68631bc7e9a0e/setuptools-80.7.0-py3-none-any.whl (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/2b/22/2e66d286bf92bc5f0d0822346e53fc856b5e6ad38b2a53bcde7ea5eb1299/setuptools-80.7.0.tar.gz (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/a1/18/0e835c3a557dc5faffc8f91092f62fc337c1dab1066715842e7a4b318ec4/setuptools-80.7.1-py3-none-any.whl (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/9e/8b/dc1773e8e5d07fd27c1632c45c1de856ac3dbf09c0147f782ca6d990cf15/setuptools-80.7.1.tar.gz (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/58/29/93c53c098d301132196c3238c312825324740851d77a8500a2462c0fd888/setuptools-80.8.0-py3-none-any.whl (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/8d/d2/ec1acaaff45caed5c2dedb33b67055ba9d4e96b091094df90762e60135fe/setuptools-80.8.0.tar.gz (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/a3/dc/17031897dae0efacfea57dfd3a82fdd2a2aeb58e0ff71b77b87e44edc772/setuptools-80.9.0-py3-none-any.whl (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/18/5d/3bf57dcd21979b887f014ea83c24ae194cfcd12b9e0fda66b957c69d1fca/setuptools-80.9.0.tar.gz (from https://pypi.org/simple/setuptools/) (requires-python:>=3.9)
+  Collecting setuptools
+    Obtaining dependency information for setuptools from https://files.pythonhosted.org/packages/15/65/3f0dba35760d902849d39d38c0a72767794b1963227b69a587f8a336d08c/setuptools-75.3.2-py3-none-any.whl.metadata
+    Using cached setuptools-75.3.2-py3-none-any.whl.metadata (6.9 kB)
+  Collecting oldest-supported-numpy
+    Obtaining dependency information for oldest-supported-numpy from https://files.pythonhosted.org/packages/dc/5c/e3c84cfdd488701aa074b22cf5bd227fb15d26e1d55a66d9088c39afa123/oldest_supported_numpy-2023.12.21-py3-none-any.whl.metadata
+    Using cached oldest_supported_numpy-2023.12.21-py3-none-any.whl.metadata (9.8 kB)
+  Collecting Cython
+    Obtaining dependency information for Cython from https://files.pythonhosted.org/packages/c9/64/1ad051720a3c7897edb2673eef9d8a478e998f44c285ab5b9ed30a2fe3a1/cython-3.1.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata
+    Using cached cython-3.1.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (5.6 kB)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/d0/b2/fe774844d1857804cc884bba67bec38f649c99d0dc1ee7cbbf1da601357c/numpy-1.25.0.tar.gz (from https://pypi.org/simple/numpy/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/cf/7a/f68d1d658a0e68084097beb212fa9356fee7eabff8b57231cc4acb555b12/numpy-1.25.1.tar.gz (from https://pypi.org/simple/numpy/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/a0/41/8f53eff8e969dd8576ddfb45e7ed315407d27c7518ae49418be8ed532b07/numpy-1.25.2.tar.gz (from https://pypi.org/simple/numpy/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '<3.13,>=3.9'): https://files.pythonhosted.org/packages/55/b3/b13bce39ba82b7398c06d10446f5ffd5c07db39b09bd37370dc720c7951c/numpy-1.26.0.tar.gz (from https://pypi.org/simple/numpy/) (requires-python:<3.13,>=3.9)
+    Link requires a different Python (3.8.20 not in: '<3.13,>=3.9'): https://files.pythonhosted.org/packages/78/23/f78fd8311e0f710fe1d065d50b92ce0057fe877b8ed7fd41b28ad6865bfc/numpy-1.26.1.tar.gz (from https://pypi.org/simple/numpy/) (requires-python:<3.13,>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/dd/2b/205ddff2314d4eea852e31d53b8e55eb3f32b292efc3dd86bd827ab9019d/numpy-1.26.2.tar.gz (from https://pypi.org/simple/numpy/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/d0/b0/13e2b50c95bfc1d5ee04925eb5c105726c838f922d0aaddd57b7c8be0f8b/numpy-1.26.3.tar.gz (from https://pypi.org/simple/numpy/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/65/6e/09db70a523a96d25e115e71cc56a6f9031e7b8cd166c1ac8438307c14058/numpy-1.26.4.tar.gz (from https://pypi.org/simple/numpy/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/05/35/fb1ada118002df3fe91b5c3b28bc0d90f879b881a5d8f68b1f9b79c44bfe/numpy-2.0.0.tar.gz (from https://pypi.org/simple/numpy/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/1c/8a/0db635b225d2aa2984e405dc14bd2b0c324a0c312ea1bc9d283f2b83b038/numpy-2.0.1.tar.gz (from https://pypi.org/simple/numpy/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.9'): https://files.pythonhosted.org/packages/a9/75/10dd1f8116a8b796cb2c737b674e02d02e80454bda953fa7e65d8c12b016/numpy-2.0.2.tar.gz (from https://pypi.org/simple/numpy/) (requires-python:>=3.9)
+    Link requires a different Python (3.8.20 not in: '>=3.10'): https://files.pythonhosted.org/packages/54/a4/f8188c4f3e07f7737683588210c073478abcb542048cf4ab6fedad0b458a/numpy-2.1.0.tar.gz (from https://pypi.org/simple/numpy/) (requires-python:>=3.10)
+    Link requires a different Python (3.8.20 not in: '>=3.10'): https://files.pythonhosted.org/packages/59/5f/9003bb3e632f2b58f5e3a3378902dcc73c5518070736c6740fe52454e8e1/numpy-2.1.1.tar.gz (from https://pypi.org/simple/numpy/) (requires-python:>=3.10)
+    Link requires a different Python (3.8.20 not in: '>=3.10'): https://files.pythonhosted.org/packages/4b/d1/8a730ea07f4a37d94f9172f4ce1d81064b7a64766b460378be278952de75/numpy-2.1.2.tar.gz (from https://pypi.org/simple/numpy/) (requires-python:>=3.10)
+    Link requires a different Python (3.8.20 not in: '>=3.10'): https://files.pythonhosted.org/packages/25/ca/1166b75c21abd1da445b97bf1fa2f14f423c6cfb4fc7c4ef31dccf9f6a94/numpy-2.1.3.tar.gz (from https://pypi.org/simple/numpy/) (requires-python:>=3.10)
+    Link requires a different Python (3.8.20 not in: '>=3.10'): https://files.pythonhosted.org/packages/d1/eb/9c688381b252f711cadf3ec38b3eceb0b946ff5a161a3adc520c886fed43/numpy-2.2.0rc1.tar.gz (from https://pypi.org/simple/numpy/) (requires-python:>=3.10)
+    Link requires a different Python (3.8.20 not in: '>=3.10'): https://files.pythonhosted.org/packages/47/1b/1d565e0f6e156e1522ab564176b8b29d71e13d8caf003a08768df3d5cec5/numpy-2.2.0.tar.gz (from https://pypi.org/simple/numpy/) (requires-python:>=3.10)
+    Link requires a different Python (3.8.20 not in: '>=3.10'): https://files.pythonhosted.org/packages/f2/a5/fdbf6a7871703df6160b5cf3dd774074b086d278172285c52c2758b76305/numpy-2.2.1.tar.gz (from https://pypi.org/simple/numpy/) (requires-python:>=3.10)
+    Link requires a different Python (3.8.20 not in: '>=3.10'): https://files.pythonhosted.org/packages/ec/d0/c12ddfd3a02274be06ffc71f3efc6d0e457b0409c4481596881e748cb264/numpy-2.2.2.tar.gz (from https://pypi.org/simple/numpy/) (requires-python:>=3.10)
+    Link requires a different Python (3.8.20 not in: '>=3.10'): https://files.pythonhosted.org/packages/fb/90/8956572f5c4ae52201fdec7ba2044b2c882832dcec7d5d0922c9e9acf2de/numpy-2.2.3.tar.gz (from https://pypi.org/simple/numpy/) (requires-python:>=3.10)
+    Link requires a different Python (3.8.20 not in: '>=3.10'): https://files.pythonhosted.org/packages/e1/78/31103410a57bc2c2b93a3597340a8119588571f6a4539067546cb9a0bfac/numpy-2.2.4.tar.gz (from https://pypi.org/simple/numpy/) (requires-python:>=3.10)
+    Link requires a different Python (3.8.20 not in: '>=3.10'): https://files.pythonhosted.org/packages/dc/b2/ce4b867d8cd9c0ee84938ae1e6a6f7926ebf928c9090d036fc3c6a04f946/numpy-2.2.5.tar.gz (from https://pypi.org/simple/numpy/) (requires-python:>=3.10)
+    Link requires a different Python (3.8.20 not in: '>=3.10'): https://files.pythonhosted.org/packages/76/21/7d2a95e4bba9dc13d043ee156a356c0a8f0c6309dff6b21b4d71a073b8a8/numpy-2.2.6.tar.gz (from https://pypi.org/simple/numpy/) (requires-python:>=3.10)
+    Link requires a different Python (3.8.20 not in: '>=3.11'): https://files.pythonhosted.org/packages/e7/b1/50f64d9a874841804dceb5d3e26d953114f97a35e331d2571320f1c14e51/numpy-2.3.0rc1.tar.gz (from https://pypi.org/simple/numpy/) (requires-python:>=3.11)
+    Link requires a different Python (3.8.20 not in: '>=3.11'): https://files.pythonhosted.org/packages/f3/db/8e12381333aea300890829a0a36bfa738cac95475d88982d538725143fd9/numpy-2.3.0.tar.gz (from https://pypi.org/simple/numpy/) (requires-python:>=3.11)
+    Link requires a different Python (3.8.20 not in: '>=3.11'): https://files.pythonhosted.org/packages/2e/19/d7c972dfe90a353dbd3efbbe1d14a5951de80c99c9dc1b93cd998d51dc0f/numpy-2.3.1.tar.gz (from https://pypi.org/simple/numpy/) (requires-python:>=3.11)
+  Collecting numpy==1.17.3 (from oldest-supported-numpy)
+    Obtaining dependency information for numpy==1.17.3 from https://files.pythonhosted.org/packages/3a/8f/f9ee25c0ae608f86180c26a1e35fe7ea9d71b473ea7f54db20759ba2745e/numpy-1.17.3-cp38-cp38-manylinux1_x86_64.whl.metadata
+    Using cached numpy-1.17.3-cp38-cp38-manylinux1_x86_64.whl.metadata (2.0 kB)
+  Using cached wheel-0.45.1-py3-none-any.whl (72 kB)
+  Using cached setuptools-75.3.2-py3-none-any.whl (1.3 MB)
+  Using cached oldest_supported_numpy-2023.12.21-py3-none-any.whl (4.9 kB)
+  Using cached numpy-1.17.3-cp38-cp38-manylinux1_x86_64.whl (20.5 MB)
+  Using cached cython-3.1.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (3.3 MB)
+  Installing collected packages: wheel, setuptools, numpy, Cython, oldest-supported-numpy
+    Creating /tmp/pip-build-env-h978geco/overlay/bin
+    changing mode of /tmp/pip-build-env-h978geco/overlay/bin/wheel to 755
+    changing mode of /tmp/pip-build-env-h978geco/overlay/bin/f2py to 755
+    changing mode of /tmp/pip-build-env-h978geco/overlay/bin/f2py3 to 755
+    changing mode of /tmp/pip-build-env-h978geco/overlay/bin/f2py3.8 to 755
+    changing mode of /tmp/pip-build-env-h978geco/overlay/bin/cygdb to 755
+    changing mode of /tmp/pip-build-env-h978geco/overlay/bin/cython to 755
+    changing mode of /tmp/pip-build-env-h978geco/overlay/bin/cythonize to 755
+  ERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.
+  espnet 202412 requires asteroid-filterbanks==0.4.0, which is not installed.
+  espnet 202412 requires ci-sdr, which is not installed.
+  espnet 202412 requires configargparse>=1.2.1, which is not installed.
+  espnet 202412 requires ctc-segmentation>=1.6.6, which is not installed.
+  espnet 202412 requires editdistance, which is not installed.
+  espnet 202412 requires espnet-tts-frontend, which is not installed.
+  espnet 202412 requires fast-bss-eval==0.1.3, which is not installed.
+  espnet 202412 requires filelock, which is not installed.
+  espnet 202412 requires h5py>=2.10.0, which is not installed.
+  espnet 202412 requires humanfriendly, which is not installed.
+  espnet 202412 requires hydra-core, which is not installed.
+  espnet 202412 requires importlib-metadata<5.0, which is not installed.
+  espnet 202412 requires jamo==0.4.1, which is not installed.
+  espnet 202412 requires kaldiio>=2.18.0, which is not installed.
+  espnet 202412 requires librosa==0.9.2, which is not installed.
+  espnet 202412 requires nltk>=3.4.5, which is not installed.
+  espnet 202412 requires opt-einsum, which is not installed.
+  espnet 202412 requires packaging, which is not installed.
+  espnet 202412 requires protobuf, which is not installed.
+  espnet 202412 requires pypinyin<=0.44.0, which is not installed.
+  espnet 202412 requires pyworld>=0.3.4, which is not installed.
+  espnet 202412 requires PyYAML>=5.1.2, which is not installed.
+  espnet 202412 requires scipy>=1.4.1, which is not installed.
+  espnet 202412 requires sentencepiece==0.1.97, which is not installed.
+  espnet 202412 requires soundfile>=0.10.2, which is not installed.
+  espnet 202412 requires torch>=1.11.0, which is not installed.
+  espnet 202412 requires torch-complex, which is not installed.
+  espnet 202412 requires typeguard, which is not installed.
+  espnet 202412 requires setuptools<74.0.0,>=38.5.1, but you have setuptools 75.3.2 which is incompatible.
+  Successfully installed Cython-3.1.2 numpy-1.17.3 oldest-supported-numpy-2023.12.21 setuptools-75.3.2 wheel-0.45.1
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Running command Getting requirements to build wheel
+
+  Error compiling Cython file:
+  ------------------------------------------------------------
+  ...
+  import logging
+  import numpy as np
+  cimport numpy as np
+
+
+  def cython_fill_table(np.ndarray[np.float32_t, ndim=2] table,
+                        ^
+  ------------------------------------------------------------
+
+  ctc_segmentation/ctc_segmentation_dyn.pyx:20:22: 'ndarray' is not a type identifier
+
+  Error compiling Cython file:
+  ------------------------------------------------------------
+  ...
+  import numpy as np
+  cimport numpy as np
+
+
+  def cython_fill_table(np.ndarray[np.float32_t, ndim=2] table,
+                        np.ndarray[np.float32_t, ndim=2] lpz,
+                        ^
+  ------------------------------------------------------------
+
+  ctc_segmentation/ctc_segmentation_dyn.pyx:21:22: 'ndarray' is not a type identifier
+
+  Error compiling Cython file:
+  ------------------------------------------------------------
+  ...
+  cimport numpy as np
+
+
+  def cython_fill_table(np.ndarray[np.float32_t, ndim=2] table,
+                        np.ndarray[np.float32_t, ndim=2] lpz,
+                        np.ndarray[np.int64_t, ndim=2] ground_truth,
+                        ^
+  ------------------------------------------------------------
+
+  ctc_segmentation/ctc_segmentation_dyn.pyx:22:22: 'ndarray' is not a type identifier
+
+  Error compiling Cython file:
+  ------------------------------------------------------------
+  ...
+
+
+  def cython_fill_table(np.ndarray[np.float32_t, ndim=2] table,
+                        np.ndarray[np.float32_t, ndim=2] lpz,
+                        np.ndarray[np.int64_t, ndim=2] ground_truth,
+                        np.ndarray[np.int64_t, ndim=1] offsets,
+                        ^
+  ------------------------------------------------------------
+
+  ctc_segmentation/ctc_segmentation_dyn.pyx:23:22: 'ndarray' is not a type identifier
+
+  Error compiling Cython file:
+  ------------------------------------------------------------
+  ...
+      cdef int higher_offset
+      cdef float switch_prob, stay_prob, skip_prob
+      cdef float prob_max = -1000000000
+      cdef float last_max
+      cdef int last_arg_max
+      cdef np.ndarray[np.int64_t, ndim=1] cur_offset = np.zeros([ground_truth.shape[1]], np.int64) - 1
+           ^
+  ------------------------------------------------------------
+
+  ctc_segmentation/ctc_segmentation_dyn.pyx:47:9: 'ndarray' is not a type identifier
+
+  Error compiling Cython file:
+  ------------------------------------------------------------
+  ...
+      cdef int higher_offset
+      cdef float switch_prob, stay_prob, skip_prob
+      cdef float prob_max = -1000000000
+      cdef float last_max
+      cdef int last_arg_max
+      cdef np.ndarray[np.int64_t, ndim=1] cur_offset = np.zeros([ground_truth.shape[1]], np.int64) - 1
+           ^
+  ------------------------------------------------------------
+
+  ctc_segmentation/ctc_segmentation_dyn.pyx:47:9: 'ndarray' is not a type identifier
+
+  Error compiling Cython file:
+  ------------------------------------------------------------
+  ...
+              # Compute next window offset
+              offset = min(max(0, last_arg_max - table.shape[0] // 2),
+                           min(higher_offset, (lpz.shape[0] - table.shape[0]) - offset_sum))
+              # Compute relative offset to previous columns
+              for s in range(ground_truth.shape[1] - 1):
+                  cur_offset[s + 1] = cur_offset[s] + offset
+                               ^
+  ------------------------------------------------------------
+
+  ctc_segmentation/ctc_segmentation_dyn.pyx:68:29: Compiler crash in OptimizeBuiltinCalls
+
+  ModuleNode.body = StatListNode(ctc_segmentation_dyn.pyx:15:0)
+  StatListNode.stats[3] = StatListNode(ctc_segmentation_dyn.pyx:20:0)
+  StatListNode.stats[0] = DefNode(ctc_segmentation_dyn.pyx:20:0,
+      doc = 'Fill the table of transition probabilities.\n\n    :param table: table filled with maximum joint probabilities k_{t,j}\n    :param lpz: character probabilities of each time frame\n    :param ground_truth: label sequence\n    :param offsets: window offsets per character (given as array of zeros)\n    :param blank: label ID of the blank symbol, usually 0\n    :param flags: configuration options, default 0\n    :return:\n    ',
+      is_cyfunction = True,
+      modifiers = [...]/0,
+      name = 'cython_fill_table',
+      node_positions = [...]/327,
+      np_args_idx = [...]/0,
+      num_required_args = 6,
+      outer_attrs = [...]/2,
+      py_wrapper_required = True,
+      reqd_kw_flags_cname = '0',
+      used = True)
+  DefNode.body = StatListNode(ctc_segmentation_dyn.pyx:26:4,
+      is_terminator = True)
+  StatListNode.stats[9] = LetNode(ctc_segmentation_dyn.pyx:61:4)
+  LetNode.body = ForFromStatNode(ctc_segmentation_dyn.pyx:61:4,
+      from_range = True,
+      relation1 = '<=',
+      relation2 = '<')
+  ForFromStatNode.body = StatListNode(ctc_segmentation_dyn.pyx:62:8)
+  StatListNode.stats[0] = IfStatNode(ctc_segmentation_dyn.pyx:62:8)
+  IfStatNode.if_clauses[0] = IfClauseNode(ctc_segmentation_dyn.pyx:62:11)
+  IfClauseNode.body = StatListNode(ctc_segmentation_dyn.pyx:64:12)
+  StatListNode.stats[1] = LetNode(ctc_segmentation_dyn.pyx:67:12)
+  LetNode.body = ForFromStatNode(ctc_segmentation_dyn.pyx:67:12,
+      from_range = True,
+      relation1 = '<=',
+      relation2 = '<')
+  ForFromStatNode.body = StatListNode(ctc_segmentation_dyn.pyx:68:50)
+  StatListNode.stats[0] = SingleAssignmentNode(ctc_segmentation_dyn.pyx:68:50)
+  SingleAssignmentNode.lhs = IndexNode(ctc_segmentation_dyn.pyx:68:26,
+      is_subscript = True,
+      result_is_used = True,
+      use_managed_ref = True)
+  IndexNode.index = AddNode(ctc_segmentation_dyn.pyx:68:29,
+      infix = True,
+      operator = '+',
+      result_is_used = True,
+      use_managed_ref = True)
+
+  Compiler crash traceback from this point on:
+    File "Cython/Compiler/Visitor.py", line 174, in Cython.Compiler.Visitor.TreeVisitor._visit
+    File "Cython/Compiler/Visitor.py", line 538, in Cython.Compiler.Visitor.MethodDispatcherTransform.visit_BinopNode
+    File "Cython/Compiler/Visitor.py", line 552, in Cython.Compiler.Visitor.MethodDispatcherTransform._visit_binop_node
+  AttributeError: 'NoneType' object has no attribute 'is_builtin_type'
+  Compiling ctc_segmentation/ctc_segmentation_dyn.pyx because it changed.
+  [1/1] Cythonizing ctc_segmentation/ctc_segmentation_dyn.pyx
+  Traceback (most recent call last):
+    File "/home/jeevanth/Voice_cloning/env/lib/python3.8/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py", line 389, in <module>
+      main()
+    File "/home/jeevanth/Voice_cloning/env/lib/python3.8/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py", line 373, in main
+      json_out["return_val"] = hook(**hook_input["kwargs"])
+    File "/home/jeevanth/Voice_cloning/env/lib/python3.8/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py", line 143, in get_requires_for_build_wheel
+      return hook(config_settings)
+    File "/tmp/pip-build-env-h978geco/overlay/lib/python3.8/site-packages/setuptools/build_meta.py", line 333, in get_requires_for_build_wheel
+      return self._get_build_requires(config_settings, requirements=[])
+    File "/tmp/pip-build-env-h978geco/overlay/lib/python3.8/site-packages/setuptools/build_meta.py", line 303, in _get_build_requires
+      self.run_setup()
+    File "/tmp/pip-build-env-h978geco/overlay/lib/python3.8/site-packages/setuptools/build_meta.py", line 521, in run_setup
+      super().run_setup(setup_script=setup_script)
+    File "/tmp/pip-build-env-h978geco/overlay/lib/python3.8/site-packages/setuptools/build_meta.py", line 319, in run_setup
+      exec(code, locals())
+    File "<string>", line 23, in <module>
+    File "/tmp/pip-build-env-h978geco/overlay/lib/python3.8/site-packages/Cython/Build/Dependencies.py", line 1154, in cythonize
+      cythonize_one(*args)
+    File "/tmp/pip-build-env-h978geco/overlay/lib/python3.8/site-packages/Cython/Build/Dependencies.py", line 1298, in cythonize_one
+      raise CompileError(None, pyx_file)
+  Cython.Compiler.Errors.CompileError: ctc_segmentation/ctc_segmentation_dyn.pyx
+  error: subprocess-exited-with-error
+  
+  × Getting requirements to build wheel did not run successfully.
+  │ exit code: 1
+  ╰─> See above for output.
+  
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+  full command: /home/jeevanth/Voice_cloning/env/bin/python3.8 /home/jeevanth/Voice_cloning/env/lib/python3.8/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py get_requires_for_build_wheel /tmp/tmpyv30t3gb
+  cwd: /tmp/pip-install-23m9gyhr/ctc-segmentation_9672c95da9c54ec6a15763dc74c64b75
+  Getting requirements to build wheel: finished with status 'error'
+error: subprocess-exited-with-error
+
+× Getting requirements to build wheel did not run successfully.
+│ exit code: 1
+╰─> See above for output.
+
+note: This error originates from a subprocess, and is likely not a problem with pip.

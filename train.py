@@ -89,9 +89,6 @@ def train():
         
         print(f"Epoch {epoch + 1}, Loss: {loss.item():.4f}")
 
-    torch.save(encoder.state_dict(), "lstm_speaker_encoder.pt")
-    print("Saved speaker encoder as lstm_speaker_encoder.pt")
-
 
 if __name__=="__main__":
     train()
